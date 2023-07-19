@@ -1,38 +1,40 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Project Title
+JSON-reader
 
-First, run the development server:
+## Introduction
+This project is built to read JSON files. User needs to upload the JSON file in given file input of project and below user can read the input json file
+
+## design 
+
+
+
+## Installation & Getting started
+Detailed instructions on how to install, configure, and get the project running.
 
 ```bash
+npm install https://github.com/sumant236/json-reader-form.git
+# or
+yarn install https://github.com/sumant236/json-reader-form.git
+cd json-reader-form.git
 npm run dev
 # or
 yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Usage
+1. Got to [http://localhost:3000/](http://localhost:3000/)
+   
+   ![Screenshot 2023-07-19 122055](https://github.com/sumant236/json-reader-form/assets/53209266/0ae5272e-b7be-47b1-9656-ee33c77e8510)
+3. Add details and upload your file in file input (Remeber to upload JSON file only or you will end up with an error)
+   
+   ![Screenshot 2023-07-19 121529](https://github.com/sumant236/json-reader-form/assets/53209266/d2d36abb-4634-4e66-a83c-4cd0286b4cfd)
+5. Click on "Submit" button to submit
+   
+   ![Screenshot 2023-07-19 121544](https://github.com/sumant236/json-reader-form/assets/53209266/81de0c5d-1c9e-4b2a-925b-787ee6d0af30)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Technology Stack
+1. React JS
+2. Next JS
+3. Ant design
