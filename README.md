@@ -14,14 +14,14 @@ Detailed instructions on how to install, configure, and get the project running.
 npm install https://github.com/sumant236/json-reader-form.git
 # or
 yarn install https://github.com/sumant236/json-reader-form.git
-cd json-reader-form.git
+cd json-reader-form
 npm run dev
 # or
 yarn dev
 ```
 
 ## Usage
-1. Got to [http://localhost:3000/](http://localhost:3000/)
+1. Go to [http://localhost:3000/](http://localhost:3000/)
    
    ![Screenshot 2023-07-19 122055](https://github.com/sumant236/json-reader-form/assets/53209266/0ae5272e-b7be-47b1-9656-ee33c77e8510)
 3. Add details and upload your file in file input (Remeber to upload JSON file only or you will end up with an error)
