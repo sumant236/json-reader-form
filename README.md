@@ -6,9 +6,6 @@ JSON-reader
 ## Introduction
 This project is built to read JSON files. User needs to upload the JSON file in given file input of project and below user can read the input json file
 
-## design 
-
-
 
 ## Installation & Getting started
 Detailed instructions on how to install, configure, and get the project running.
